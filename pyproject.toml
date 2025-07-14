@@ -1,0 +1,14 @@
+[project]
+name = "xmer-scratch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.0.0",
+    "matplotlib>=3.10.3",
+    "tokenizers>=0.21.2",
+    "torch>=2.7.1",
+    "tqdm>=4.67.1",
+    "transformers>=4.53.2",
+]
